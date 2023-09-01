@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          zdej mogl delati bi
+          I was changed on dah feture branch
         </p>
         <a
           className="App-link"
